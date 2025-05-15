@@ -43,15 +43,34 @@ Certificates will be awarded to the top 3 teams in each task.
 Winning teams will be invited to co-author the summary paper and present at the workshop.
 </section>
 
-<section id="committee">
-## Committee
+<section id="Challenge Chair">
+## Challenge Chair
 
 - Aaron Y. Lee (Univ. of Washington)  
 - Cecilia S. Lee (Univ. of Washington)  
 - Dongha Lee (Yonsei Univ.)  
-- Dongjin Nam (Mediwhale / Yonsei Univ.)  
 - Hyeonmin Kim (Mediwhale) – Primary Contact  
-- …and 15+ other experts from Mediwhale, POSTECH, SNU, Duke-NUS  
+- Tyler Hyungtaek Rim (Mediwhale)  
+- Wonhwa Kim (POSTECH)  
+</section>
 
-Contact: [kjven0625@mediwhale.com](mailto:kjven0625@mediwhale.com)
+<section id="Challenge Organizers">
+## Challenge Organizers
+
+- Dongjin Nam (Mediwhale; Yonsei Univ. College of Medicine)  
+- Geunyoung Lee (Mediwhale)  
+- Heeju Ko (Mediwhale)  
+- Junseok Park (Mediwhale; Seoul National Univ. College of Medicine)  
+- Jungkyung Cho (Mediwhale; Seoul National Univ. College of Medicine)  
+- Kai Tzu-iunn Ong (Yonsei Univ.)  
+- Sahil Thakur (Mediwhale)  
+- Soojin Hwang (POSTECH)  
+- Sungyeon Kim (POSTECH)  
+- Taegeun Yoo (Mediwhale)  
+- Yongseok Lee (Mediwhale; Yonsei Univ. College of Medicine)  
+- Yunnie Cho (Mediwhale; Seoul National Univ. College of Medicine)  
+- Yeonwoo Jung (Mediwhale; POSTECH)  
+</section>
+
+Contact: [luke.kim@mediwhale.com](mailto:luke.kim@mediwhale.com)
 </section>
