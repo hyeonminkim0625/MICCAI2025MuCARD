@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title | default: site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+</head>
+<body>
+  <header>
+    <h1><a href="{{ "/" | relative_url }}">{{ site.title }}</a></h1>
+    <nav>
+      <ul>
+        <li><a href="{{ "#introduction" | relative_url }}">Introduction</a></li>
+        <li><a href="{{ "#description" | relative_url }}">Challenge Description</a></li>
+        <li><a href="{{ "#dates" | relative_url }}">Important Dates</a></li>
+        <li><a href="{{ "#awards" | relative_url }}">Awards</a></li>
+        <li><a href="{{ "#committee" | relative_url }}">Committee</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <footer>
+    &copy; {{ site.time | date: "%Y" }} MuCaRD Challenge Organizers
+  </footer>
+</body>
+</html>
