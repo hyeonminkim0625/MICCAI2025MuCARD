@@ -3,5 +3,5 @@ title: MuCaRD Challenge
 description: Multi-Camera Robust Diagnosis of Fundus Diseases
 baseurl: ""        # 프로젝트 사이트: 예) "/MICCAI2025MuCARD"
 url: "https://hyeonminkim0625.github.io"
-theme: ""          # 커스텀 레이아웃 사용하므로 빈 값
+theme: minima
 markdown: kramdown
